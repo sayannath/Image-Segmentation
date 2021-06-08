@@ -1,4 +1,8 @@
-# Person Segmentation
+# Image Segmentation of People
+
+## Architecture
+* UNet
+![](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
 
 ## Dataset
 Kaggle [Link](https://www.kaggle.com/dataset/b9d4e32be2f57c2901fc9c5cd5f6633be7075f4b32d73348a6d5db245f2c1934)
