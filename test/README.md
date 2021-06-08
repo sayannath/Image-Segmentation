@@ -1,0 +1,1 @@
+Place the test images here to run the inference.
