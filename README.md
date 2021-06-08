@@ -21,6 +21,9 @@ Kaggle [Link](https://www.kaggle.com/dataset/b9d4e32be2f57c2901fc9c5cd5f6633be70
 
 5. python3 train.py (In Mac or Linux)
    python train.py (In Windows)
+
+6. python3 test.py (In Mac or Linux)
+   python test.py (In Windows)
 ```
 
 > Formatter Used: Black
